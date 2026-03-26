@@ -250,7 +250,6 @@ Results depend on your local run. All 3 models are compared and the best is auto
 ## Author
 
 **Mohammad Wasim**
-- LinkedIn: [your-linkedin](https://linkedin.com/in/your-profile)
 - GitHub: [mohdwasim08](https://github.com/your-username)
 
 ---
